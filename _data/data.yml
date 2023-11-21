@@ -1,0 +1,161 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+header:
+  # Profile information
+  avatar: profile.png
+  email: mikekoser@gmail.com
+  phone: 717.847.8958
+  download: assets/resume.pdf
+  website:
+  linkedin:
+  github: heykos
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+languages:
+
+interests:
+
+summary: |
+  Devoted software engineer with over 18 years of experience, dedicated to inspiring both myself and my peers to write code that not only performs well, but is also readable, scalable, testable and easily maintainable.
+
+education:
+  - degree: B.S. Computer Information Systems
+    university: DeVry University, Ft. Washington
+    time:
+    details:
+
+experiences:
+  - role: Software Engineer III
+    time: August 2021 - Present
+    company: Trend Health Partners, Cockeysville, MD
+    details: |
+      - Supercharged user productivity by implementing several features that enabled bulk operations, and automated data workflows.
+      - Bolstered team code quality and consistency by driving an initiative to define an document team coding standards.
+      - Strengthened the team's technical skills by leading learning sessions to educate & train engineers on software principles and practices.
+      - Elevated team code quality by practicing and evangelizing test driven development.
+      - Leveled up our team's agility and efficiency by creating a culture of reflection, experimentation and empiricism.
+    achievements:
+    technologies:
+      - .Net Core
+      - React
+      - SQL Server
+      - Hangfire
+      - SASS
+      - Webpack
+      - Azure DevOps
+
+  - role: Director of Engineering
+    time: January 2019 - August 2021
+    company: andculture, Harrisburg, PA
+    details: |
+      - Scaled our team to 30 engineers and QA analysts by developing a thoughtful and rigorous recruiting process and onboarding program.
+      - Elevated our commitment to open source solutions by working with our team of architects and engineers to abstract our tooling into GitHub repositories.
+      - Charted clear career trajectories for team members, equipping each individual with defined objectives and resources to foster continuous professional development.
+      - Cultivated a collaborative culture of continuous improvement by implementing pair programming and conducting comprehensive code reviews across the entire team.
+    focus:
+      - Agile Methodologies (Scrum)
+      - Clean Architecture
+      - SOLID Principles
+      - Trunk Based Development
+      - Objectives & Key Results (OKRs)
+
+  - role: Sr. Software Engineer
+    time: August 2015 - January 2019
+    company: andculture, Harrisburg, PA
+    details: |
+      - Honed full-stack technical skills through the creation of several web and mobile applications spanning various industries such as education, healthcare, and government.
+      - Ensured clients were satisfied with their products by gathering requirements, writing user stories, and holding regular reviews of progress.
+      - Collaborated closely with UX professionals and UI designers to create impeccably crafted user experiences, yielding exceptional products that not only delighted users but also proved to be highly effective and accessible.
+    technologies:
+      - .NET Core
+      - React
+      - SASS
+      - HTML
+      - Angular
+      - SQL Server
+      - Redis
+      - Hangfire
+      - Xamarin
+
+  - role: Lead Software Engineer
+    time: December 2011 - August 2015
+    company: HairDirect, Lancaster, PA
+    details: |
+      - Expanded our market reach significantly by creating a tailored eCommerce platform, enabling the sale and distribution of products across the US, EU and England.
+      - Enhanced marketing capabilities through the orchestration of software platform upgrades, addressing significant version gaps and ensuring modernization.
+      - Amplified sales and marketing capabilities through comprehensive research and the strategic implementation of a multi-platform system designed to convert leads into paying clients.
+    technologies:
+      - ASP.NET
+      - SQL Server
+      - jQuery
+      - HTML
+      - SASS
+      - Sitefinity CMS
+      - Google Analytics
+      - Google Tag Manger
+
+  - role: Software Engineer
+    time: November 2005 - December 2011
+    company: Cargas Systems, Lancaster, PA
+    details: |
+      - Designed and implemented several custom made web applications for various customers spanning industries such as retail, home heating, manufacturing, and distribution.
+      - Provided end-to-end service to our customers from business process review, to software implementation and delivery.
+      - Augmented existing ERP software products with advanced features to elevate its functionality and synchronize seamless integration with other software platforms.
+    technologies:
+      - ASP.NET
+      - SQL Server
+      - jQuery
+      - HTML
+      - CSS
+      - Microsoft Dynamics GP
+
+awards:
+
+projects:
+  - name: Pluto
+    link: https://www.plutobudgeting.com/
+    time: October 2022 - Present
+    details: |
+      Provide pro bono engineering services to implement features for a personal budgeting application (currently in beta).
+    technologies:
+      - React
+      - Typscript
+      - Node
+      - MongoDB
+      - SASS
+      - Finicity
+
+# Publications are not used in this template for now
+publications:
+
+skills:
+  - category: Technologies
+    tools:
+      - name: C#
+      - name: React
+      - name: Typescript / JavaScript
+      - name: SQL
+      - name: MongoDB
+      - name: Node
+      - name: HTML
+      - name: CSS / SASS
+      - name: Xamarin
+      - name: Flutter
+  - category: others
+    tools:
+      - Automated Testing
+      - DevOps
+      - Scrum
+      - Code Reviews
+      - Git
+      - Wireframing
+      - Clean Architecture
+      - SOLID Principles
+      - Mobile Application Development

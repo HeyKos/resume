@@ -1,0 +1,14 @@
+# In this file, you can override most of the sections titles
+
+career-profile: Profile # default: Career Profile
+awards: # default: Awards
+education: # default: Education
+experience: # default: Work Experience
+projects: Side Projects # default: Projects
+achievements: # default: Achievements
+technologies: Technologies # default: Technologies used
+focus: # default: Areas of Focus
+interests: # default: Interests
+language: # default: Language
+skills: # default: Skills &amp; Tools
+other-skills: # default: Others
