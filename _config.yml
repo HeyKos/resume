@@ -8,8 +8,8 @@ author: Mike Koser
 tagline: Full Stack Developer
 description: Mike Koser's digital resume
 
-url: "https://heykos.github.io"
-baseurl: "/resume" # change it according to your repository name
+url: "http://www.mikekoser.me"
+baseurl: # change it according to your repository name
 
 twitter:
   username:
