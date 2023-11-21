@@ -2,7 +2,7 @@
 
 ## Installation
 
-### Clone the report
+### Clone the repo
 
 ```bash
 git clone https://github.com/heykos/resume.git
