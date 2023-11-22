@@ -3,10 +3,10 @@
 # Site Settings
 
 # SEO plugin
-title: Resume
+title: Mike Koser
 author: Mike Koser
 tagline: Full Stack Developer
-description: Mike Koser's digital resume
+description: Mike Koser's digital cv
 
 url: "http://www.mikekoser.me"
 baseurl: # change it according to your repository name
